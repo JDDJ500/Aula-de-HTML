@@ -1,0 +1,26 @@
+.number{
+    background-color: darkgray;
+    color: lightgray;
+    padding: 5%;
+}
+.oper{
+    background-color: lightgray;
+    color: darkgray;
+    size: 5px;
+    padding: 5%;
+}
+.opercalc{
+    background-position: center;
+    background-color: lightgray;
+    padding: 5%;
+}
+.title{
+    padding-right: 0.5px;
+    padding-left: 0.5px;
+    background-color: darkgray; width: 12%;
+    color: lightgray;
+}
+.root{
+    background-color: inherit;
+    color: darkgray;
+}
