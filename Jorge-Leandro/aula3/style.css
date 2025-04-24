@@ -1,0 +1,42 @@
+.fonte{
+    display: inline;
+    text-align: center;
+}
+.btn{
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 5px;
+    width: 2;
+    padding: auto;
+    background-color: lightgray;
+    color: rgb(0, 130, 50);
+    border-radius: 15px;
+    border-color: black;
+    border-top-left-radius: 30px;
+}
+h1{
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 5px;
+    width: 2;
+    padding: auto;
+    background-color: lightgrey;
+    color: rgb(0, 130, 50);
+    border-radius: 15px;
+    border-color: black;
+    border-top-left-radius: 30px;
+}
+p{
+    padding-bottom: 10px;
+    border-radius: 15px;
+    border-color: black;
+    border-top-left-radius: 15px;
+    background-color: gray;
+    text-align: center;
+}
+body{
+    background-attachment: fixed;
+    background-size: cover;
+    backdrop-filter: 10;
+    background-color: rgba(125, 100, 10, 0.4);
+}
